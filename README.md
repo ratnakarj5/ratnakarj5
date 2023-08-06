@@ -20,7 +20,7 @@ I am a Full Stack Software developer, Author, Speaker & open source tech enthusi
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ratnakarj5&layout=compact&theme=light)](https://github.com/ratnakarj5/github-readme-stats) -->
 
 <a href="https://github.com/sudheerj">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudheerj&theme=light&count_private=true&layout=compact" width="205" alt="Sudheer's most used languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudheerj&theme=light&count_private=true&layout=compact" width="205" alt="Ratnakar J most used languages" />
 </a>
 <a href="https://github.com/sudheerj">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sudheerj&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" width="350" alt="Sudheer's github stats"/>
