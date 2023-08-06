@@ -14,18 +14,6 @@ I am a Full Stack Software developer, Author, Speaker & open source tech enthusi
 - I’m working as a Senior IT consultant and building large scale web applications.
 - Authoring and blogging about emerging technologies.
 
-#### :fire: My Stats :
-<!--- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ratnakarj5&theme=dark&background=000000)](https://git.io/streak-stats) 
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ratnakarj5&layout=compact&theme=light)](https://github.com/ratnakarj5/github-readme-stats) -->
-
-<a href="https://github.com/sudheerj">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratnakarj5&theme=light&count_private=true&layout=compact" width="205" alt="Ratnakar J most used languages" />
-</a>
-<a href="https://github.com/ratnakarj5">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ratnakarj5&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" width="350" alt="Ratnakar J's github stats"/>
-</a>
-
 #### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -43,3 +31,17 @@ I am a Full Stack Software developer, Author, Speaker & open source tech enthusi
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+#### :fire: My Stats :
+<!--- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ratnakarj5&theme=dark&background=000000)](https://git.io/streak-stats) 
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ratnakarj5&layout=compact&theme=light)](https://github.com/ratnakarj5/github-readme-stats) -->
+
+<a href="https://github.com/sudheerj">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratnakarj5&theme=light&count_private=true&layout=compact" width="205" alt="Ratnakar J most used languages" />
+</a>
+<a href="https://github.com/ratnakarj5">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ratnakarj5&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" width="350" alt="Ratnakar J's github stats"/>
+</a>
+
+
