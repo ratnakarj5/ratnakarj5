@@ -15,9 +15,9 @@ I am a Full Stack Software developer, Author, Speaker & open source tech enthusi
 - Authoring and blogging about emerging technologies.
 
 #### :fire: My Stats :
-<!--- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sudheerj&theme=dark&background=000000)](https://git.io/streak-stats) 
+<!--- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ratnakarj5&theme=dark&background=000000)](https://git.io/streak-stats) 
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ratnakarj5&layout=compact&theme=light)](https://github.com/sudheerj/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ratnakarj5&layout=compact&theme=light)](https://github.com/ratnakarj5/github-readme-stats) -->
 
 <a href="https://github.com/sudheerj">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudheerj&theme=light&count_private=true&layout=compact" width="205" alt="Sudheer's most used languages" />
