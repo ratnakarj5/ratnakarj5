@@ -22,8 +22,8 @@ I am a Full Stack Software developer, Author, Speaker & open source tech enthusi
 <a href="https://github.com/sudheerj">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudheerj&theme=light&count_private=true&layout=compact" width="205" alt="Ratnakar J most used languages" />
 </a>
-<a href="https://github.com/sudheerj">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=sudheerj&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" width="350" alt="Sudheer's github stats"/>
+<a href="https://github.com/ratnakarj5">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=sudheerj&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" width="350" alt="Ratnakar J's github stats"/>
 </a>
 
 #### :hammer_and_wrench: Languages and Tools :
