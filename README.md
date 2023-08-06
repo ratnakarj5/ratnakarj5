@@ -3,7 +3,7 @@
 <div id="header" align="center">
   <h2> Hi 👋 I'm Ratnakar JOnnakuti.</h2>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/sudheer-jonna-b9009142/">
+    <a href="https://www.linkedin.com/in/ratnakarj5">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://twitter.com/SudheerJonna">
