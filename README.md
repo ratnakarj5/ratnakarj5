@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<div>
+    <img src="https://github.com/ratnakarj5/ratnakarj5/blob/main/My%20project-1.png" title="Angular" alt="Angular" width="1000" height="600"/>
+</div>
 <div id="header" align="center">
   <h2> Hi 👋 I'm Ratnakar J.</h2>
   <div id="badges">
