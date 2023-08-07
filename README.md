@@ -14,7 +14,7 @@ I am a Full Stack Software developer, Author, Speaker & open source tech enthusi
 - I’m working as a Senior IT consultant and building large scale web applications.
 - Authoring and blogging about emerging technologies.
 
-#### :hammer_and_wrench: Programming Languages :
+#### :hammer_and_wrench: Front End :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -33,7 +33,7 @@ I am a Full Stack Software developer, Author, Speaker & open source tech enthusi
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-#### :hammer_and_wrench: Deployment Tools :
+#### :hammer_and_wrench: Backend :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
