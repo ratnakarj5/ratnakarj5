@@ -32,9 +32,10 @@ I am a Full Stack Software developer, Author, Speaker & open source tech enthusi
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### ✍️ Random Dev Quote
+### ✍️ Ratnakar Dev Quote
+Full Stack Developer:
 Jack of All Trades, Master of None
-Often Times Better than Master
+Often Times ### Better than Master
 
 
 #### :fire: My Stats :
