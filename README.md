@@ -32,6 +32,11 @@ I am a Full Stack Software developer, Author, Speaker & open source tech enthusi
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+### ✍️ Random Dev Quote
+Jack of All Trades, Master of None
+Often Times Better than Master
+
+
 #### :fire: My Stats :
 <!--- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ratnakarj5&theme=dark&background=000000)](https://git.io/streak-stats) 
  
