@@ -35,7 +35,7 @@ I am a Full Stack Software developer, Author, Speaker & open source tech enthusi
 ### ✍️ Ratnakar Dev Quote
 Full Stack Developer:
 Jack of All Trades, Master of None
-Often Times ### Better than Master
+Often Times ** Better than Master **
 
 
 #### :fire: My Stats :
