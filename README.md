@@ -1,9 +1,8 @@
-### Hi there 👋
 <div>
-    <img src="https://github.com/ratnakarj5/ratnakarj5/blob/main/My%20project-1.png" title="Ratnakar" alt="Ratnakar" width="1000" height="400"/>
+    <h2> Hi 👋 I'm Ratnakar J.</h2>
+    <img src="https://github.com/ratnakarj5/ratnakarj5/blob/main/resumeheader.jpg" title="Ratnakar" alt="Ratnakar" width="1000" height="200"/>
 </div>
 <div id="header" align="center" >
-  <h2> Hi 👋 I'm Ratnakar J.</h2>
   <div id="badges">
     <a href="https://www.linkedin.com/in/ratnakarj5">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
