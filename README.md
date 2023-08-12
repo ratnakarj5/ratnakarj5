@@ -57,7 +57,7 @@ I am a Full Stack Software developer, Author, Speaker & open source tech enthusi
 ### ✍️ Ratnakar Acheivements
 <div id="header" align="left" >
   <div id="badges">
-    <a href="https://www.hackerrank.com/certificates/31edeb56fc27">
+    <a href="https://www.hackerrank.com/ratnakar_j5?badge=sql&stars=2&level=1&hr_r=1&utm_campaign=social-buttons&utm_medium=linkedin&utm_source=badge_share&social=linkedin">
       <img src="https://github.com/ratnakarj5/ratnakarj5/blob/main/HackerRank.png" title="Hacker Rank" alt="Ratnakar" width="500" height="150"/>
     </a>
   </div>
