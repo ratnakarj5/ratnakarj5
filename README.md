@@ -10,6 +10,11 @@
   </div>
 </div>
 
+### ✍️ Ratnakar Dev Quote
+Full Stack Developer:
+Jack of All Trades, Master of None
+Often Times <strong>Better than Master<strong>
+
 #### 💻 &nbsp; About Me :
 I am a Full Stack Software developer, Author, Speaker & open source tech enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from USA.
 - I’m working as a Senior IT consultant and building large scale web applications.
@@ -47,10 +52,7 @@ I am a Full Stack Software developer, Author, Speaker & open source tech enthusi
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="React" alt="Kubernetes" width="40" height="40"/>&nbsp;
 </div>
 
-### ✍️ Ratnakar Dev Quote
-Full Stack Developer:
-Jack of All Trades, Master of None
-Often Times <strong>Better than Master<strong>
+
 
 
 #### :fire: My Stats :
