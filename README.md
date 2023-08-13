@@ -34,12 +34,14 @@ I am a Full Stack Software developer, Author, Speaker & open source tech enthusi
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="Chrome" alt="Chrome " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/ratnakarj5/ratnakarj5/blob/main/firefox-svgrepo-com.svg" title="Firefox" alt="Firefox" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original-wordmark.svg" title="EsLint" alt="EsLint" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="JQuery" alt="JQuery" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material Ui" alt="Material Ui" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="Material Ui" alt="Material Ui" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="WebPack" alt="WebPack" width="50" height="50"/>&nbsp;
+  
 </div>
 
 #### :hammer_and_wrench: Backend :
@@ -47,10 +49,12 @@ I am a Full Stack Software developer, Author, Speaker & open source tech enthusi
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/ratnakarj5/ratnakarj5/blob/main/maven-svgrepo-com.svg" title="maven" alt="maven" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Kafka" alt="Kafka" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="Material Ui" alt="Material Ui" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/ratnakarj5/ratnakarj5/blob/main/eclipse-svgrepo-com.svg" title="Eclipse" alt="Eclipse" width="40" height="40"/>&nbsp;
 </div>
 
 #### :hammer_and_wrench: DevOps Tools :
@@ -63,6 +67,9 @@ I am a Full Stack Software developer, Author, Speaker & open source tech enthusi
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" title="Putty" alt="Putty" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original-wordmark.svg" title="tomcat" alt="tomcat" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/ratnakarj5/ratnakarj5/blob/main/jenkins-svgrepo-com.svg" title="tomcat" alt="tomcat" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/ratnakarj5/ratnakarj5/blob/main/jfrog-svgrepo-com.svg" title="jfrog" alt="jfrog" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/ratnakarj5/ratnakarj5/blob/main/postman-svgrepo-com.svg" title="jfrog" alt="jfrog" width="40" height="40"/>&nbsp;
 </div>
 
 
