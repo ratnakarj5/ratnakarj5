@@ -99,7 +99,7 @@ I am a Full Stack Software developer, Author, Speaker & open source tech enthusi
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ratnakarj5&layout=compact&theme=light)](https://github.com/ratnakarj5/github-readme-stats) -->
 
-<a href="https://github.com/sudheerj">
+<a href="https://github.com/ratnakarj5">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratnakarj5&theme=light&count_private=true&layout=compact" width="205" alt="Ratnakar J most used languages" />
 </a>
 <a href="https://github.com/ratnakarj5">
