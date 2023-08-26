@@ -92,12 +92,14 @@ I am a Full Stack Software developer, Author, Speaker & open source tech enthusi
 </div>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ratnakarj5&" alt="ratnakarj5" /></p>
+
 
 #### :fire: My Stats :
 <!--- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ratnakarj5&theme=dark&background=000000)](https://git.io/streak-stats) 
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ratnakarj5&layout=compact&theme=light)](https://github.com/ratnakarj5/github-readme-stats) -->
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ratnakarj5&" alt="ratnakarj5" /></p>
 
 <a href="https://github.com/ratnakarj5">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratnakarj5&theme=light&count_private=true&layout=compact" width="205" alt="Ratnakar J most used languages" />
