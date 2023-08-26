@@ -92,7 +92,7 @@ I am a Full Stack Software developer, Author, Speaker & open source tech enthusi
 </div>
 
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ratnakarj5&" alt="ratnakarj5" /></p>
 
 #### :fire: My Stats :
 <!--- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ratnakarj5&theme=dark&background=000000)](https://git.io/streak-stats) 
