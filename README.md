@@ -81,7 +81,6 @@ I am a Full Stack Software developer, Author, Speaker & open source tech enthusi
 </div>
 
 
-
 ### ✍️ Ratnakar Acheivements
 <div id="header" align="left" >
   <div id="badges">
